@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   we specialise in networking and network security.
 twitter_username: emptech
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: plum
 search: true
 
 # Build settings
