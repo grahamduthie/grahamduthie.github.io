@@ -3,6 +3,8 @@ permalink: /services/
 title: "Services"
 ---
 
+![Empowered Technology Services](/assets/images/services.jpg)
+
 Overseas expansion is increasingly vital for today’s technology start-ups. But knowing how to do it quickly and effectively can be a huge barrier for them – and getting it wrong can be a costly and sometimes even fatal mistake.
 
 At Empowered Technology, we help IT vendors launch outside their home markets with a minimum of risk. We provide a proven, up-and-running operational team in Europe so that vendors can grow their business quickly and at a fraction of the cost of doing it themselves. The Empowered Technology route lets them ‘test’ the market and see a real return on investment, before they go ahead and start a European operation.

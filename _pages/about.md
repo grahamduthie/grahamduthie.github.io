@@ -1,6 +1,7 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
+layout: single
 ---
 
 At Empowered Technology, we’re well placed to understand the demands of the complex but highly lucrative international market for leading-edge technology vendors.
