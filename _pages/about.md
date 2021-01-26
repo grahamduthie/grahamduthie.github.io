@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+At Empowered Technology, we’re well placed to understand the demands of the complex but highly lucrative international market for leading-edge technology vendors.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+We’ve worked with start-ups for more than 20 years, including some that have since been acquired by the likes of 3Com, Hewlett Packard, Juniper Networks and Ivanti.
+
+We know how to position technologies, how to set up distribution channels, and how to avoid the many pitfalls along the way. We believe our ‘bridging the gap’ approach to international expansion offers big benefits to companies looking to grow quickly. But we also recognise how critical it is to have the right local team in place.
+
+Empowered Technology was set up in 2010 by Paul Donovan and Graham Duthie.
